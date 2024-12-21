@@ -1,0 +1,27 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "event": "Tech Conference"
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "event": "Tech Conference"
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "event": "Tech Conference"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "event": "AI Summit"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "event": "AI Summit"
+  }
+]
